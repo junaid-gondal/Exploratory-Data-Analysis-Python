@@ -87,12 +87,12 @@ These visualizations offer complementary ways to inspect passenger counts over t
 ## Repository Structure
 
 ```text
-eda-multiple-datasets/
+
 ├── README.md
 ├── eda.ipynb
 ├── train.csv           # Required locally for Titanic analysis
 └── requirements.txt    # Optional: recommended dependencies
-```
+
 
 **Note:** `train.csv` is not embedded in the notebook. Include it in the repository only if its source and license permit redistribution; otherwise provide a download/source link and setup instructions.
 
